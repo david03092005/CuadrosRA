@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 275,
+    "left": 0,
+    "width": 786,
+    "height": 1048,
+    "isRotated": true,
+    "originalWidth": 786,
+    "originalHeight": 1600
+  },
+  "imagePath": "image-targets/Arrecifes_luminance.jpg",
+  "metadata": null,
+  "name": "Arrecifes",
+  "resources": {
+    "originalImage": "Arrecifes_original.jpg",
+    "croppedImage": "Arrecifes_cropped.jpg",
+    "thumbnailImage": "Arrecifes_thumbnail.jpg",
+    "luminanceImage": "Arrecifes_luminance.jpg"
+  },
+  "created": 1793464917533,
+  "updated": 1793465465799
+}

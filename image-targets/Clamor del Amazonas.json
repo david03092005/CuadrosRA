@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 2364,
+    "height": 3152,
+    "isRotated": true,
+    "originalWidth": 2806,
+    "originalHeight": 3152
+  },
+  "imagePath": "image-targets/Clamor del Amazonas_luminance.jpg",
+  "metadata": null,
+  "name": "Clamor del Amazonas",
+  "resources": {
+    "originalImage": "Clamor del Amazonas_original.jpg",
+    "croppedImage": "Clamor del Amazonas_cropped.jpg",
+    "thumbnailImage": "Clamor del Amazonas_thumbnail.jpg",
+    "luminanceImage": "Clamor del Amazonas_luminance.jpg"
+  },
+  "created": 1793466585874,
+  "updated": 1793466593889
+}

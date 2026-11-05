@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 20,
+    "left": 0,
+    "width": 2847,
+    "height": 3796,
+    "isRotated": false,
+    "originalWidth": 2847,
+    "originalHeight": 3832
+  },
+  "imagePath": "image-targets/Preservemos el Jaguar_luminance.jpg",
+  "metadata": null,
+  "name": "Preservemos el Jaguar",
+  "resources": {
+    "originalImage": "Preservemos el Jaguar_original.jpg",
+    "croppedImage": "Preservemos el Jaguar_cropped.jpg",
+    "thumbnailImage": "Preservemos el Jaguar_thumbnail.jpg",
+    "luminanceImage": "Preservemos el Jaguar_luminance.jpg"
+  },
+  "created": 1793467019041,
+  "updated": 1793467030137
+}

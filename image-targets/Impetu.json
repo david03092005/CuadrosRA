@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 679,
+    "left": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 1379,
+    "originalHeight": 1319
+  },
+  "imagePath": "image-targets/Impetu_luminance.jpg",
+  "metadata": null,
+  "name": "Impetu",
+  "resources": {
+    "originalImage": "Impetu_original.jpg",
+    "croppedImage": "Impetu_cropped.jpg",
+    "thumbnailImage": "Impetu_thumbnail.jpg",
+    "luminanceImage": "Impetu_luminance.jpg"
+  },
+  "created": 1793472158398,
+  "updated": 1793473188977
+}

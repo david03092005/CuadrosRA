@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 214,
+    "left": 0,
+    "width": 640,
+    "height": 853,
+    "isRotated": true,
+    "originalWidth": 640,
+    "originalHeight": 1282
+  },
+  "imagePath": "image-targets/Migración_luminance.png",
+  "metadata": null,
+  "name": "Migración",
+  "resources": {
+    "originalImage": "Migración_original.png",
+    "croppedImage": "Migración_cropped.png",
+    "thumbnailImage": "Migración_thumbnail.png",
+    "luminanceImage": "Migración_luminance.png"
+  },
+  "created": 1793463805383,
+  "updated": 1793463890350
+}

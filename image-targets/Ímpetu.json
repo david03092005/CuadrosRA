@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 640,
+    "originalHeight": 640
+  },
+  "imagePath": "image-targets/Ímpetu_luminance.jpg",
+  "metadata": null,
+  "name": "Ímpetu",
+  "resources": {
+    "originalImage": "Ímpetu_original.jpg",
+    "croppedImage": "Ímpetu_cropped.jpg",
+    "thumbnailImage": "Ímpetu_thumbnail.jpg",
+    "luminanceImage": "Ímpetu_luminance.jpg"
+  },
+  "created": 1793474067702,
+  "updated": 1793474080206
+}
